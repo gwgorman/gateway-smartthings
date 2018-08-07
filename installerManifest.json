@@ -15,7 +15,7 @@
     "notes": "N/A",
     "smartApps": {
         "parent": {
-            "name": "IBM Watson IoT Bridge",
+            "name": "IBM Watson IoT Bridge 2",
             "iconUrl": "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
             "published": true,
             "oAuth": true,
