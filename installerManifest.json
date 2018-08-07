@@ -1,0 +1,28 @@
+{
+    "namespace": "IBM",
+    "repoOwner": "gwgorman",
+    "repoName": "gateway-smartthings",
+    "repoBranch": "master",
+    "name": "Watson IOT Gateway",
+    "author": "IBM",
+    "description": "SmartThings integration with IBM Watson IoT Platform",
+    "category": "My Apps",
+    "bannerUrl": "",
+    "forumUrl": "",
+    "docUrl": "https://github.com/gwgorman/gateway-smartthings/blob/master/README.md",
+    "releaseType": "production",
+    "keywords": ["watson", "iot", "things", "IBM"],
+    "notes": "N/A",
+    "smartApps": {
+        "parent": {
+            "name": "IBM Watson IoT Bridge",
+            "iconUrl": "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+            "published": true,
+            "oAuth": true,
+            "version": "0.4.2a",
+            "appSettings": {},
+            "appUrl": "smartapps/IBM/watsoniot.groovy"
+        },
+        "children": []
+    }
+}
