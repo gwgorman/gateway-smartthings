@@ -3,7 +3,7 @@
     "repoOwner": "gwgorman",
     "repoName": "gateway-smartthings",
     "repoBranch": "master",
-    "name": "Watson IOT Gateway 2",
+    "name": "Watson IOT Gateway",
     "author": "IBM",
     "description": "SmartThings integration with IBM Watson IoT Platform",
     "category": "My Apps",
@@ -19,7 +19,7 @@
             "iconUrl": "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
             "published": true,
             "oAuth": true,
-            "version": "0.4.2a",
+            "version": "0.4.2",
             "appSettings": {},
             "appUrl": "smartapps/IBM/watsoniot.groovy"
         },
