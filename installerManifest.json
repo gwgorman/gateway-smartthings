@@ -4,7 +4,7 @@
     "repoName": "gateway-smartthings",
     "repoBranch": "master",
     "name": "Watson IOT Gateway",
-    "author": "IBM",
+    "author": "IBM, David Parker, Gregory Gorman",
     "description": "SmartThings integration with IBM Watson IoT Platform",
     "category": "My Apps",
     "bannerUrl": "",
