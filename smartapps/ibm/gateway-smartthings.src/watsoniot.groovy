@@ -12,7 +12,7 @@
 definition(
 	name: "IBM Watson IoT Bridge",
 	namespace: "",
-	author: "David Parker",
+	author: "David Parker, Gregory Gorman, IBM",
 	description: "Bridge from SmartThings to IBM Watson IoT",
 	category: "My Apps",
 	iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
